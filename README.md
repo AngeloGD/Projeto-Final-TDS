@@ -1,2 +1,2 @@
-# Projeto-Final-TDS
-Projeto de um Sistema de Votação Online
+# projetoSistemaVotacao
+Projeto de um sistema de votação online feito em C#.
